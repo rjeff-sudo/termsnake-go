@@ -1,0 +1,16 @@
+# Build output
+/bin/
+/dist/
+/termsnake
+/termsnake.exe
+
+# Local databases and coverage
+*.db
+*.db-shm
+*.db-wal
+coverage.out
+
+# Editor and OS noise
+.DS_Store
+.idea/
+.vscode/
